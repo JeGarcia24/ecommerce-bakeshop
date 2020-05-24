@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7083c4985ce67d51ea31abd750ed7632",
+    "revision": "ed2be869fe97d2f25f5ec8bfb93309e1",
     "url": "/ecommerce-bakeshop/index.html"
   },
   {
-    "revision": "f2b1d5023f4a3cc3024c",
+    "revision": "610187489668e3422649",
     "url": "/ecommerce-bakeshop/static/css/main.8e4470a1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ecommerce-bakeshop/static/js/2.ab494692.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f2b1d5023f4a3cc3024c",
-    "url": "/ecommerce-bakeshop/static/js/main.dee6ea14.chunk.js"
+    "revision": "610187489668e3422649",
+    "url": "/ecommerce-bakeshop/static/js/main.c98546e0.chunk.js"
   },
   {
     "revision": "af7a285f39f52a573103",

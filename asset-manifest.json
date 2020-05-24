@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ecommerce-bakeshop/static/css/main.8e4470a1.chunk.css",
-    "main.js": "/ecommerce-bakeshop/static/js/main.dee6ea14.chunk.js",
-    "main.js.map": "/ecommerce-bakeshop/static/js/main.dee6ea14.chunk.js.map",
+    "main.js": "/ecommerce-bakeshop/static/js/main.c98546e0.chunk.js",
+    "main.js.map": "/ecommerce-bakeshop/static/js/main.c98546e0.chunk.js.map",
     "runtime-main.js": "/ecommerce-bakeshop/static/js/runtime-main.dffc9750.js",
     "runtime-main.js.map": "/ecommerce-bakeshop/static/js/runtime-main.dffc9750.js.map",
     "static/js/2.ab494692.chunk.js": "/ecommerce-bakeshop/static/js/2.ab494692.chunk.js",
     "static/js/2.ab494692.chunk.js.map": "/ecommerce-bakeshop/static/js/2.ab494692.chunk.js.map",
     "index.html": "/ecommerce-bakeshop/index.html",
-    "precache-manifest.300ba44d6dd5a9eb52c2dfd8c1f2b585.js": "/ecommerce-bakeshop/precache-manifest.300ba44d6dd5a9eb52c2dfd8c1f2b585.js",
+    "precache-manifest.d2c190b25d6f4ee31559d22b4b8e4a10.js": "/ecommerce-bakeshop/precache-manifest.d2c190b25d6f4ee31559d22b4b8e4a10.js",
     "service-worker.js": "/ecommerce-bakeshop/service-worker.js",
     "static/css/main.8e4470a1.chunk.css.map": "/ecommerce-bakeshop/static/css/main.8e4470a1.chunk.css.map",
     "static/js/2.ab494692.chunk.js.LICENSE.txt": "/ecommerce-bakeshop/static/js/2.ab494692.chunk.js.LICENSE.txt",
@@ -36,6 +36,6 @@
     "static/js/runtime-main.dffc9750.js",
     "static/js/2.ab494692.chunk.js",
     "static/css/main.8e4470a1.chunk.css",
-    "static/js/main.dee6ea14.chunk.js"
+    "static/js/main.c98546e0.chunk.js"
   ]
 }
