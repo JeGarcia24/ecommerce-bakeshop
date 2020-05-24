@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/ecommerce-bakeshop/static/css/main.8e4470a1.chunk.css",
+    "main.js": "/ecommerce-bakeshop/static/js/main.dee6ea14.chunk.js",
+    "main.js.map": "/ecommerce-bakeshop/static/js/main.dee6ea14.chunk.js.map",
+    "runtime-main.js": "/ecommerce-bakeshop/static/js/runtime-main.dffc9750.js",
+    "runtime-main.js.map": "/ecommerce-bakeshop/static/js/runtime-main.dffc9750.js.map",
+    "static/js/2.ab494692.chunk.js": "/ecommerce-bakeshop/static/js/2.ab494692.chunk.js",
+    "static/js/2.ab494692.chunk.js.map": "/ecommerce-bakeshop/static/js/2.ab494692.chunk.js.map",
+    "index.html": "/ecommerce-bakeshop/index.html",
+    "precache-manifest.300ba44d6dd5a9eb52c2dfd8c1f2b585.js": "/ecommerce-bakeshop/precache-manifest.300ba44d6dd5a9eb52c2dfd8c1f2b585.js",
+    "service-worker.js": "/ecommerce-bakeshop/service-worker.js",
+    "static/css/main.8e4470a1.chunk.css.map": "/ecommerce-bakeshop/static/css/main.8e4470a1.chunk.css.map",
+    "static/js/2.ab494692.chunk.js.LICENSE.txt": "/ecommerce-bakeshop/static/js/2.ab494692.chunk.js.LICENSE.txt",
+    "static/media/about.jpg": "/ecommerce-bakeshop/static/media/about.9a8d8ee0.jpg",
+    "static/media/bagels.jpg": "/ecommerce-bakeshop/static/media/bagels.398a9a7e.jpg",
+    "static/media/blueberryCupcake.jpg": "/ecommerce-bakeshop/static/media/blueberryCupcake.15e03ab1.jpg",
+    "static/media/chocolateCake.jpg": "/ecommerce-bakeshop/static/media/chocolateCake.ab250848.jpg",
+    "static/media/chocolateChipCookie.jpg": "/ecommerce-bakeshop/static/media/chocolateChipCookie.cf03f69e.jpg",
+    "static/media/chocolateMuffin.jpg": "/ecommerce-bakeshop/static/media/chocolateMuffin.09340ef9.jpg",
+    "static/media/cinnamonRoll.jpg": "/ecommerce-bakeshop/static/media/cinnamonRoll.a3923d17.jpg",
+    "static/media/croissant.jpg": "/ecommerce-bakeshop/static/media/croissant.565c80c5.jpg",
+    "static/media/doughnuts.jpg": "/ecommerce-bakeshop/static/media/doughnuts.d7091cb4.jpg",
+    "static/media/frenchBread.jpg": "/ecommerce-bakeshop/static/media/frenchBread.23bbdd89.jpg",
+    "static/media/garlicBread.jpg": "/ecommerce-bakeshop/static/media/garlicBread.0223fb75.jpg",
+    "static/media/Cart.css": "/ecommerce-bakeshop/static/media/header.4299d1a5.jpg",
+    "static/media/logo.jpg": "/ecommerce-bakeshop/static/media/logo.247ed70f.jpg",
+    "static/media/redVelvetCupcake.jpg": "/ecommerce-bakeshop/static/media/redVelvetCupcake.cc4e0b9c.jpg",
+    "static/media/strawberryCake.jpg": "/ecommerce-bakeshop/static/media/strawberryCake.d61dbb25.jpg",
+    "static/media/strawberryCheesecake.jpg": "/ecommerce-bakeshop/static/media/strawberryCheesecake.a0175446.jpg",
+    "static/media/strawberryPie.jpg": "/ecommerce-bakeshop/static/media/strawberryPie.d2917d5c.jpg",
+    "static/media/toast.jpg": "/ecommerce-bakeshop/static/media/toast.b2dff311.jpg",
+    "static/media/wheatBread.jpg": "/ecommerce-bakeshop/static/media/wheatBread.11f61508.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dffc9750.js",
+    "static/js/2.ab494692.chunk.js",
+    "static/css/main.8e4470a1.chunk.css",
+    "static/js/main.dee6ea14.chunk.js"
+  ]
+}
