@@ -1,0 +1,30 @@
+.home-container{
+  height: 100vh;
+  width: 100%;
+  text-align: center;
+  background-image: url("../images/header.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+  top: 0px;
+}
+.tagLine{
+  padding-top: 20vh;
+  font-size: 50px;
+  margin: 0px 50px 60px 50px;
+}
+.homeLink{
+  font-size: 30px;
+  border: none;
+  border-radius: 30px;
+  padding: 5px 20px;
+  font-weight: bolder;
+  border: 2px solid #D4F7D4;
+  text-decoration: none;
+}
+
+@media(min-width: 600px){
+  .home-container{ background-position: unset; }
+  .tagLine{ padding-top: 50vh; } 
+}
